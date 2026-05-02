@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="ImportExportSystem.API/ImportExportSystem.API.csproj" />
+  <Project Path="ImportExportSystem.Application/ImportExportSystem.Application.csproj" />
+  <Project Path="ImportExportSystem.Auditing/ImportExportSystem.Auditing.csproj" />
+  <Project Path="ImportExportSystem.BackgroundJobs/ImportExportSystem.BackgroundJobs.csproj" />
+  <Project Path="ImportExportSystem.Domain/ImportExportSystem.Domain.csproj" />
+  <Project Path="ImportExportSystem.Files/ImportExportSystem.Files.csproj" />
+  <Project Path="ImportExportSystem.Infrastructure/ImportExportSystem.Infrastructure.csproj" />
+  <Project Path="ImportExportSystem.Persistence/ImportExportSystem.Persistence.csproj" />
+  <Project Path="ImportExportSystem.Shared/ImportExportSystem.Shared.csproj" />
+  <Project Path="ImportExportSystem.Transformation/ImportExportSystem.Transformation.csproj" />
+  <Project Path="ImportExportSystem.Validation/ImportExportSystem.Validation.csproj" />
+</Solution>

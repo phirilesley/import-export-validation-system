@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImportExportSystem.Persistence\ImportExportSystem.Persistence.csproj" />
+    <ProjectReference Include="..\ImportExportSystem.Infrastructure\ImportExportSystem.Infrastructure.csproj" />
+    <ProjectReference Include="..\ImportExportSystem.Validation\ImportExportSystem.Validation.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.8.23" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
